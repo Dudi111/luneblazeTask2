@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110974247599",
+    "project_id": "newpushnotif-1ba54",
+    "storage_bucket": "newpushnotif-1ba54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110974247599:android:932e9ff25be72b1dd4aa5a",
+        "android_client_info": {
+          "package_name": "com.example.luneblaze"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110974247599-fh51ufi68i40c6d0uctqasuithhs6sl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3g36APCw7CARdJxaecXaYiVvA44TqxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110974247599-fh51ufi68i40c6d0uctqasuithhs6sl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
